@@ -44,8 +44,8 @@ nama = 'Yakutun Nafisah'
 kelas = '10 RPL 2'
 absen = 35
 tgLahir = '26-04-2007'
-alamat = 'Taman Pagesangan``'
-jenisKelamin = 'Prempuan'
+alamat = 'Taman Pagesangan'
+jenisKelamin = 'Perempuan'
 Agama = 'Islam'
 Umur = 16
 
@@ -57,3 +57,5 @@ print('Alamat \t\t:', alamat)
 print('Jenis Kelamin \t: ', jenisKelamin)
 print('Agama \t\t: ', Agama)
 print('Umur \t\t: ', Umur)
+
+print('=====================================================')
