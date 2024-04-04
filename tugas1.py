@@ -59,3 +59,21 @@ print('Agama \t\t: ', Agama)
 print('Umur \t\t: ', Umur)
 
 print('=====================================================')
+
+nama = 'maharaja putra agni'
+kelas = '10 RPL 2'
+absen = 18
+tgLahir = '22-07-2007'
+alamat = 'dasan sari'
+jenisKelamin = 'laki-laki'
+Agama = 'Islam'
+Umur = 16
+
+print('Nama \t\t: ', nama)
+print('Kelas \t\t: ', kelas)
+print('Absen \t\t: ', absen)
+print('Tanggal Lahir \t: ', tgLahir)
+print('Alamat \t\t:', alamat)
+print('Jenis Kelamin \t: ', jenisKelamin)
+print('Agama \t\t: ', Agama)
+print('Umur \t\t: ', Umur)
