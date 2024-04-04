@@ -37,3 +37,23 @@ print('Alamat \t\t:', alamat)
 print('Jenis Kelamin \t: ', jenisKelamin)
 print('Agama \t\t: ', Agama)
 print('Umur \t\t: ', Umur)
+
+print('=====================================================')
+
+nama = 'Yakutun Nafisah'
+kelas = '10 RPL 2'
+absen = 35
+tgLahir = '26-04-2007'
+alamat = 'Taman Pagesangan``'
+jenisKelamin = 'Prempuan'
+Agama = 'Islam'
+Umur = 16
+
+print('Nama \t\t: ', nama)
+print('Kelas \t\t: ', kelas)
+print('Absen \t\t: ', absen)
+print('Tanggal Lahir \t: ', tgLahir)
+print('Alamat \t\t:', alamat)
+print('Jenis Kelamin \t: ', jenisKelamin)
+print('Agama \t\t: ', Agama)
+print('Umur \t\t: ', Umur)
